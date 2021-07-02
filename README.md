@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Daniel Fischer and I am living and working in Finland. I am a Senior Specialist at the Luonnonvarakeskus / Natural Resources Institute Finland (Luke) for Bioinformatics and Biostatistics. I was born in Dinslaken, Germany, and studied Statistics and Computer Sciences at the Technical University Dortmund, Germany. Since 2009 I am living in Finland, where I also did my PhD in Biostatistics. 
+My name is Daniel Fischer and I am living and working in Finland. I am a research scientist at the Luonnonvarakeskus / Natural Resources Institute Finland (Luke) for Bioinformatics and Biostatistics. I was born in Dinslaken, Germany, and studied Statistics and Computer Sciences at the Technical University Dortmund, Germany. Since 2009 I am living in Finland, where I also did my PhD in Biostatistics. 
 
 <!--
 **fischuu/fischuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
